@@ -10,4 +10,4 @@ setup:
 	gcc app.c -o app.o -lm
 	@echo "[+] paket berhasil di setup"
 Run:
-	@./app.out
+	@./app.o
