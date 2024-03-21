@@ -14,6 +14,7 @@ dengan bermodalkan nomor telepon target versi baru
 - Disclaimer: Hanya support nomor +62
 - ## cara menginstall
 \- siapkan termux versi terbaru<br>
+\- unduh termux-api di [f-droid](https://f-droid.org/id/packages/com.termux.api/)<br>
 \- setup termux anda<br>
 \- install paket git<br>
 \- install paket make<br>
@@ -51,3 +52,4 @@ make Run
 - List otp
 > - sms<br>
 > - whatsapp<br>
+> - call
